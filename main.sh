@@ -1,4 +1,11 @@
 #!/bin/bash
+
+# ---------------------------------------------------------------
+# Programa desarrollado por Franco Salvador Talarico (@Rubik3x3).
+
+# Proyecto iniciado el 19/05/2023
+# ---------------------------------------------------------------
+
 continuar='s'
 p=0
 
